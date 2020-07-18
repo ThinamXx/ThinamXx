@@ -1,8 +1,12 @@
-# Hi, I'm **Thinam** 👋 :computer:
+# Hi, I'm __Thinam__ 👋 :computer:
 
-#### I'm a **CSIT Student**. I'm currently learning **Machine Learning** and **Deep Learning**. 
-#### > I had worked as a **Data Analyst Intern** for **3 months**. I want to work as a **Data Scientist** in future days. 
-#### > **TEAMWORK AND ABILITY TO WORK COLLABORATIVELY** is my greatest strength.
+#### > I'm a **CSIT Student**. I'm currently learning **Machine Learning** and **Deep Learning**. I had worked as a **Data Analyst Intern** for **3 months**. I want to work as a **Data Scientist** in future days. 
+
+#### > Updates:
+####   - Learning **Deep Learning** from [Coursera](https://www.coursera.org/) and [Fast.ai](https://course.fast.ai/#)
+####   - Currently worked on [Facial Expression Classification](https://github.com/ThinamXx/Facial-Expression-Classification.git)
+
+
 <!--
 **ThinamXx/ThinamXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
