@@ -1,4 +1,4 @@
-### Hi, I'm **Thinam** 👋 :laptop:
+## Hi, I'm **Thinam** 👋 :computer:
 
 <!--
 **ThinamXx/ThinamXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
