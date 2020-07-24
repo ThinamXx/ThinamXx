@@ -4,7 +4,7 @@
 
 ####  Updates:
 ####   - Learning **Deep Learning** from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/) and [Fast.ai](https://course.fast.ai/#)
-####   - Currently worked on [Collborative Filtering: Movie Recommendation](https://github.com/ThinamXx/CollaborativeFiltering--MovieRecommendation.git)
+####   - Currently worked on [Collaborative Filtering: Movie Recommendation](https://github.com/ThinamXx/CollaborativeFiltering--MovieRecommendation.git)
 ####   - Currently worked on [Planet: Understanding the Amazon from Space](https://github.com/ThinamXx/Planet--Understanding-Amazon-from-Space.git)
 ####   - Currently worked on [IMDB-NLP](https://github.com/ThinamXx/IMDB-NLP.git)
 
