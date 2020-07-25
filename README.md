@@ -7,7 +7,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 ####   - Currently worked on [Collaborative Filtering: Movie Recommendation](https://github.com/ThinamXx/CollaborativeFiltering--MovieRecommendation.git)
 ####   - Currently worked on [Planet: Understanding the Amazon from Space](https://github.com/ThinamXx/Planet--Understanding-Amazon-from-Space.git)
 ####   - Currently worked on [IMDB-NLP](https://github.com/ThinamXx/IMDB-NLP.git)
-
+- 🔭 I’m currently working on [Collaborative Filtering: Movie Recommendation](https://github.com/ThinamXx/CollaborativeFiltering--MovieRecommendation.git)
 ## **Language and Tools**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinamXx&theme=radical)
 ![Thinam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThinamXx&hide=prs,issues,contribs?username=ThinamXx&count_private=true?username=ThinamXx&show_icons=true&theme=radical)
