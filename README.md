@@ -1,6 +1,6 @@
-## Hi, I'm __Thinam__ 👋 :computer:
+### Hi there, I'm __Thinam__! 👋 :computer:
 
-####  I'm a **CSIT Student**. I'm currently learning **Machine Learning** and **Deep Learning**. I had worked as a **Data Analyst Intern** for **3 months**. I want to work as a **Data Scientist** in future days. I am always open to work on collaboration in the field of **Data Science** and **Machine Learning**.
+I'm a **CSIT Student**. I'm currently learning **Machine Learning** and **Deep Learning**.I am always open to work on collaboration in the field of **Data Science** and **Machine Learning**.
 
 ####  Updates:
 ####   - Learning **Deep Learning** from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/) and [Fast.ai](https://course.fast.ai/#)
