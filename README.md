@@ -7,7 +7,6 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 - 🔭 I’m currently working on [Collaborative Filtering: Movie Recommendation](https://github.com/ThinamXx/CollaborativeFiltering--MovieRecommendation.git).
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/) and [Fast.ai](https://course.fast.ai/#).
 - 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**.
-- 💬 Ask me about **Data Science** and **Machine Learning**.
 
 
 ### Find me around:
