@@ -1,6 +1,6 @@
 ### Hi there, I'm __Thinam__! 👋 :computer:
 
-I'm a **CSIT Student**. I'm a **Machine Learning** and **Deep Learning** **Practitioner** and **Learner**.I am humble to work on collaboration in the field of **Data Science** and **Machine Learning**.
+I'm **Thinam Tamang**, a *CSIT Student* and a **Machine Learning** and **Deep Learning** **Practitioner** and **Learner**.I am humble to work on collaboration in the field of **Data Science** and **Machine Learning**.
 
 ####  Updates:
 ####   - Learning **Deep Learning** from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/) and [Fast.ai](https://course.fast.ai/#)
