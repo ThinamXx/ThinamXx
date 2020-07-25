@@ -1,5 +1,6 @@
 ### Hey there, I'm __Thinam__! 👋 :computer:
 
+I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
 I'm a **CSIT Student** and a **Machine Learning** and **Deep Learning** **Practitioner** and **Learner**.I am humble to work on collaboration in the field of **Data Science** and **Machine Learning**.
 
 ####  Updates:
