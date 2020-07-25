@@ -12,7 +12,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 
 ### Find me around:
 - [LinkedIn](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :earth_asia:
-- [Mail](thinamjr@gmail.com) :email:
+- [Mail](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :email:
 
 ## **Language and Tools**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinamXx&theme=radical)
