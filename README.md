@@ -1,4 +1,4 @@
-### Hey there, I'm __Thinam__! 👋 :computer:
+### Hey there, I'm __Thinam__! 👋 :computer::bust_in_silhouette:🏾‍💻
 
 
 I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
