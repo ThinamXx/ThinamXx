@@ -4,9 +4,10 @@
 I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
 
 
-- 🔭 I’m currently working on [Collaborative Filtering: Movie Recommendation](https://github.com/ThinamXx/CollaborativeFiltering--MovieRecommendation.git)
-- 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/) and [Fast.ai](https://course.fast.ai/#)
+- 🔭 I’m currently working on [Collaborative Filtering: Movie Recommendation](https://github.com/ThinamXx/CollaborativeFiltering--MovieRecommendation.git).
+- 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/) and [Fast.ai](https://course.fast.ai/#).
 - 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**.
+- 💬 Ask me about **Data Science** and **Machine Learning**.
 
 
 ### Find me around:
@@ -22,7 +23,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
