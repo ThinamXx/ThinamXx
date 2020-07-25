@@ -1,7 +1,6 @@
 ### Hey there, I'm __Thinam__! 👋 :computer:
 
 I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
-I'm a **CSIT Student** and a **Machine Learning** and **Deep Learning** **Practitioner** and **Learner**.I am humble to work on collaboration in the field of **Data Science** and **Machine Learning**.
 
 ####  Updates:
 ####   - Learning **Deep Learning** from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/) and [Fast.ai](https://course.fast.ai/#)
@@ -18,7 +17,7 @@ I'm a **CSIT Student** and a **Machine Learning** and **Deep Learning** **Practi
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [Collaborative Filtering: Movie Recommendation](https://github.com/ThinamXx/CollaborativeFiltering--MovieRecommendation.git)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
