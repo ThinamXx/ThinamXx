@@ -4,7 +4,7 @@
 I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
 
 
-- 🔭 I’m currently working on [Collaborative Filtering: Movie Recommendation](https://github.com/ThinamXx/CollaborativeFiltering--MovieRecommendation.git).
+- 🔭 I’m currently working on [Rossmann Store Sales](https://github.com/ThinamXx/Rossmann-Store-Sales.git) from [Kaggle](https://www.kaggle.com/c/rossmann-store-sales)
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/) and [Fast.ai](https://course.fast.ai/#).
 - 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**.
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/thinam-tamang-3b12831a2/)
