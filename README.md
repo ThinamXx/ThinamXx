@@ -8,8 +8,8 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 - ⚡ [Ups and Downs with Kardashians & Jenners](https://github.com/ThinamXx/UpsandDowns-with-Kardashians.git)
 - ⚡ [Facial Expression Classification](https://github.com/ThinamXx/Facial-Expression-Classification.git)
 - ⚡ [MNIST Convolutional Neural Networks](https://github.com/ThinamXx/MNIST-CNN.git)
-- ⚡
 
+**Updates:**
 - 🔭 I’m currently working on [MNIST-CNN](https://github.com/ThinamXx/MNIST-CNN.git)
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/) and [Fast.ai](https://course.fast.ai/#).
 - 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**.
