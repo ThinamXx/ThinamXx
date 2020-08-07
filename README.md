@@ -32,7 +32,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 ```
 
 ```javascript
-pip install fastai2
+!pip install fastai2
 ```
 
 <!--
