@@ -23,6 +23,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 ## **Language and Tools**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinamXx&theme=radical)
+
 ![Thinam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThinamXx&hide=prs,issues,contribs?username=ThinamXx&count_private=true?username=ThinamXx&show_icons=true&theme=radical)
 
 **Important Updates**
