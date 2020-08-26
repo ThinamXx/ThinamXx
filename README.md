@@ -10,7 +10,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 - ⚡ [MNIST Convolutional Neural Networks](https://github.com/ThinamXx/MNIST-CNN.git)
 
 **Updates:**
-- 🔭 I’m currently working on [Twitter Sentiment Analysis](https://github.com/ThinamXx/Twitter..Sentiment..Analysis.git)
+- 🔭 I’m currently working on [Covid19 Data Analysis](https://github.com/ThinamXx/Covid19..DataAnalysis.git)
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/) and [Fast.ai](https://course.fast.ai/#).
 - 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**.
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/thinam-tamang-3b12831a2/)
