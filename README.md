@@ -11,6 +11,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 
 **Updates:**
 - 🔭 I’m currently working on [Traffic Signs Classification](https://github.com/ThinamXx/TrafficSign..Classification.git)
+- 🔭 I’m currently working on [66 Days of Data:NLP](https://github.com/ThinamXx/66DaysofData__NLP.git)
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/) and [Fast.ai](https://course.fast.ai/#).
 - 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**.
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/thinam-tamang-3b12831a2/)
