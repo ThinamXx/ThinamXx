@@ -1,8 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
-
 ### Hey there, I'm __Thinam__! 👋 :computer:
 
 I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
 
 **Pinned**
 - ⚡ [Image Segmentation](https://github.com/ThinamXx/ImageSegmentation-with-CamVid.git)
