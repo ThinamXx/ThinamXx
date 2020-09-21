@@ -5,6 +5,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
 
 **Pinned**
+- ⚡ [66 Days of Data](https://github.com/ThinamXx/66DaysofData__NLP.git)
 - ⚡ [Image Segmentation](https://github.com/ThinamXx/ImageSegmentation-with-CamVid.git)
 - ⚡ [Ups and Downs with Kardashians & Jenners](https://github.com/ThinamXx/UpsandDowns-with-Kardashians.git)
 - ⚡ [Facial Expression Classification](https://github.com/ThinamXx/Facial-Expression-Classification.git)
@@ -13,8 +14,8 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 **Updates:**
 - 🔭 I’m currently working on [66 Days of Data: NLP](https://github.com/ThinamXx/66DaysofData__NLP.git)
 - 🔭 I’m currently working on [Natural Language Processing](https://github.com/ThinamXx/NaturalLanguageProcessing_NLP.git)
-- 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/) and [Fast.ai](https://course.fast.ai/#).
-- 👯 I’m looking to collaborate on **Data Science** and **Machine Learning**.
+- 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
+- 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/thinam-tamang-3b12831a2/)
 
 
