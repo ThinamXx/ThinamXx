@@ -9,7 +9,6 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 - ⚡ [Image Segmentation](https://github.com/ThinamXx/ImageSegmentation-with-CamVid.git)
 - ⚡ [Ups and Downs with Kardashians & Jenners](https://github.com/ThinamXx/UpsandDowns-with-Kardashians.git)
 - ⚡ [Facial Expression Classification](https://github.com/ThinamXx/Facial-Expression-Classification.git)
-- ⚡ [MNIST Convolutional Neural Networks](https://github.com/ThinamXx/MNIST-CNN.git)
 
 **Updates:**
 - 🔭 I’m currently working on [66 Days of Data: NLP](https://github.com/ThinamXx/66DaysofData__NLP.git)
