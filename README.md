@@ -28,7 +28,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 ![Thinam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThinamXx&hide=prs,issues,contribs?username=ThinamXx&count_private=true?username=ThinamXx&show_icons=true&theme=radical)
 
 **Quick Access:**
-- Google's pre trained Word2vec Model:
+- Google's pretrained Word2vec Model :
 
 ```javascript
 !wget -c "https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz"
