@@ -12,7 +12,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 
 **Updates:**
 - 🔭 I’m currently working on [66 Days of Data: NLP](https://github.com/ThinamXx/66DaysofData__NLP.git)
-- 🔭 I’m currently working on [Natural Language Processing](https://github.com/ThinamXx/NaturalLanguageProcessing_NLP.git)
+- 🔭 I’m currently working on [Neural Networks in Sentiment Analysis](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis.git)
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/thinam-tamang-3b12831a2/)
