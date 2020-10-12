@@ -1,6 +1,6 @@
 ### Hey there, I'm __Thinam__! 👋 :computer:
 
-I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
+I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
 
