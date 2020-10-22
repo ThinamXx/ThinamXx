@@ -12,7 +12,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 
 **Updates:**
 - 🔭 I’m currently working on [66 Days of Data: NLP](https://github.com/ThinamXx/66DaysofData__NLP.git)
-- 🔭 I’m currently working on [**Surname Classification with Demographics: PyTorch**](https://github.com/ThinamXx/SurnameClassification__PyTorch.git)
+- 🔭 I’m currently working on [**Duplicate Questions Recognition: Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git)
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
 - 🌱 I’m currently reading and implementing the Papers of **Natural Language Processing**.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
