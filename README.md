@@ -35,6 +35,13 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 !wget -c "https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz"
 ```
 
+- Trax : 
+
+```javascript
+!pip install -q -U trax
+import trax
+```
+
 <!--
 **ThinamXx/ThinamXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
