@@ -11,7 +11,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 - ⚡ [Facial Expression Classification](https://github.com/ThinamXx/Facial-Expression-Classification.git)
 
 **Updates:**
-- 🔭 I’m currently working on [66 Days of Data: NLP](https://github.com/ThinamXx/66DaysofData__NLP.git)
+- 🔭 I’m currently working on [300 Days of Data: Machine Learning and Deep Learning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning.git)
 - 🔭 I’m currently working on [**Duplicate Questions Recognition: Trax**](https://github.com/ThinamXx/DuplicateQuestions__Recognition.git)
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
 - 🌱 I’m currently reading and implementing the Papers of **Natural Language Processing**.
