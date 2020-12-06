@@ -12,7 +12,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 
 **Updates:**
 - 🔭 I’m currently working on [300 Days of Data: Machine Learning and Deep Learning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning.git)
-- 🔭 I’m also working on a **Research Paper**
+- 🔭 I’m also working on a **Research Paper: Towards Interpretable Machine Learning Models of the Selectivity of Antimicrobial Host Defense Peptides**
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
 - 🌱 I’m currently reading and implementing the Papers of **Machine Learning**.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
