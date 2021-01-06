@@ -11,7 +11,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 - ⚡ [Facial Expression Classification](https://github.com/ThinamXx/Facial-Expression-Classification.git)
 
 **Updates:**
-- 🔭 I’m currently working as a Developer and Researcher Intern at [**Information and Language Processing Research Lab**](https://ilprl.ku.edu.np/)
+- 🔭 I’m currently working as a Developer Intern at [**Information and Language Processing Research Lab**](https://ilprl.ku.edu.np/)
 - 🔭 I’m currently working on [300 Days of Data: Machine Learning and Deep Learning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning.git)
 - 🔭 I’m also working on a **Research Paper: Towards Interpretable Machine Learning Models of the Selectivity of Antimicrobial Host Defense Peptides**
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
