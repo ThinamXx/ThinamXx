@@ -12,7 +12,8 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 
 **Updates:**
 - 🔭 I’m currently working as a Research Assistant at [**Center of Data Mining and Biomedical Informatics**](https://mt.mahidol.ac.th/en/departments/center-of-data-mining-and-biomedical-informatics-2/)
-- 🔭 I’m currently working on [300 Days of Data: Machine Learning and Deep Learning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning.git)
+- 🔭 I’m currently working as an NLP Engineer/Consultant at [**Kharpann Enterprises**](https://www.kharpann.com/)
+- 🔭 I’m also working on [300 Days of Data: Machine Learning and Deep Learning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning.git)
 - 🔭 I’m also working on a **Research Paper: Toward Insights on Antimicrobial Selectivity of Host Defense Peptides via Machine Learning Model Interpretation**
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
