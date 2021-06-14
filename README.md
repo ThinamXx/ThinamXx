@@ -52,7 +52,7 @@ Activation Function as SELU
 Normalization as None 
 Regularization as Early Stopping 
 Optimizer as Nadam 
-Learning Rate Schedule as Performance Scheduling.
+Learning Rate Schedule as Performance Scheduling
 ```
 
 <!--
