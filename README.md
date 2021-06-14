@@ -36,16 +36,23 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 !wget -c "https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz"
 ```
 
-- Trax : 
+- Fast.ai : 
 
-```javascript
-!pip install -q -U trax
-import trax
+```python
+!pip install -Uqq fastbook
+import fastbook
+fastbook.setup_book()
 ```
 
 - Deep Neural Networks Configurations : 
+
 ```javascript
-Kernel Initializer as LeCun Initialization, Activation Function as SELU, Normalization as None, Regularization as Early Stopping, Optimizer as Nadam, Learning Rate Schedule as Performance Scheduling.
+Kernel Initializer as LeCun Initialization 
+Activation Function as SELU 
+Normalization as None 
+Regularization as Early Stopping 
+Optimizer as Nadam 
+Learning Rate Schedule as Performance Scheduling.
 ```
 
 <!--
