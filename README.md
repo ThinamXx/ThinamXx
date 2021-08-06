@@ -5,9 +5,9 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
 
 **Pinned**
+- ⚡ [Fastai](https://github.com/ThinamXx/Fastai)
 - ⚡ [66 Days of Data:Natural Language Processing](https://github.com/ThinamXx/66DaysofData__NLP.git)
 - ⚡ [Chatbot with Sequence Networks](https://github.com/ThinamXx/Chatbot.git)
-- ⚡ [Ups and Downs with Kardashians & Jenners](https://github.com/ThinamXx/UpsandDowns-with-Kardashians.git)
 - ⚡ [Facial Expression Classification](https://github.com/ThinamXx/Facial-Expression-Classification.git)
 
 **Updates:**
