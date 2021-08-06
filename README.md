@@ -5,14 +5,13 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
 
 **Pinned**
-- ⚡ [Fastai](https://github.com/ThinamXx/Fastai)
+- ⚡ [Fast.ai](https://github.com/ThinamXx/Fastai)
 - ⚡ [66 Days of Data:Natural Language Processing](https://github.com/ThinamXx/66DaysofData__NLP.git)
 - ⚡ [Chatbot with Sequence Networks](https://github.com/ThinamXx/Chatbot.git)
 - ⚡ [Facial Expression Classification](https://github.com/ThinamXx/Facial-Expression-Classification.git)
 
 **Updates:**
 - 🔭 I’m currently working as a Research Assistant at [**Center of Data Mining and Biomedical Informatics**](https://mt.mahidol.ac.th/en/departments/center-of-data-mining-and-biomedical-informatics-2/)
-- 🔭 I’m currently working as an NLP Engineer/Consultant at [**Kharpann Enterprises**](https://www.kharpann.com/)
 - 🔭 I’m also working on [300 Days of Data: Machine Learning and Deep Learning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning.git)
 - 🔭 I’m also working on a **Research Paper of Bioinformatics and Machine Learning**
 - 🌱 I’m currently learning from [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
