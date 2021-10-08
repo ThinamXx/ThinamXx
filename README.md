@@ -4,7 +4,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
 
-**Publications:**
+**Publications:**  
 [**Toward insights on antimicrobial selectivity of host defense peptides via machine learning model interpretation**](https://doi.org/10.1016/j.ygeno.2021.08.023)  
 
 **Updates:**
