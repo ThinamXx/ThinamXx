@@ -4,8 +4,8 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
 
-**Publications**
-- [**Toward insights on antimicrobial selectivity of host defense peptides via machine learning model interpretation**](https://doi.org/10.1016/j.ygeno.2021.08.023)  
+**Publications:**
+[**Toward insights on antimicrobial selectivity of host defense peptides via machine learning model interpretation**](https://doi.org/10.1016/j.ygeno.2021.08.023)  
 
 **Updates:**
 - 🔭 I’m currently working as a Research Assistant at [**Center of Data Mining and Biomedical Informatics**](https://mt.mahidol.ac.th/en/departments/center-of-data-mining-and-biomedical-informatics-2/)
