@@ -9,7 +9,7 @@ I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practition
 
 **Updates:**
 - 🔭 I’m currently working as a Research Assistant at [**Center of Data Mining and Biomedical Informatics**](https://mt.mahidol.ac.th/en/departments/center-of-data-mining-and-biomedical-informatics-2/)
-- 🔭 I’m also working on [300 Days of Data: Machine Learning and Deep Learning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning.git)
+- 🔭 I’m also working on [Machine Learning and Deep Learning](https://github.com/ThinamXx/MachineLearning_DeepLearning.git)
 - 🔭 I’m also working on a **Research Paper of Bioinformatics and Machine Learning**
 - 🌱 I’m currently learning from [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
