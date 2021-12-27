@@ -40,17 +40,6 @@ import fastbook
 fastbook.setup_book()
 ```
 
-- Deep Neural Networks Configurations : 
-
-```javascript
-Kernel Initializer as LeCun Initialization 
-Activation Function as SELU 
-Normalization as None 
-Regularization as Early Stopping 
-Optimizer as Nadam 
-Learning Rate Schedule as Performance Scheduling
-```
-
 <!--
 **ThinamXx/ThinamXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
