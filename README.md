@@ -27,9 +27,9 @@ Solving a problem and gaining insights with the help of Machine Learning algorit
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/thinam-tamang/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/linkedin.svg" alt="Thinam | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/thinamcodes__/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/instagram.svg" alt="Thinam Tamang | Instagram" width="21px"/></a>
-<a href="https://thinamxx.github.io/thinam.ai/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/medium.svg" alt="Thinam Tamang | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/thinam-tamang/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/linkedin.svg" alt="ThinamXx | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/thinamcodes__/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/instagram.svg" alt="ThinamXx | Instagram" width="21px"/></a>
+<a href="https://thinamxx.github.io/thinam.ai/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/medium.svg" alt="ThinamXx | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
