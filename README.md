@@ -25,12 +25,10 @@ Solving a problem and gaining insights with the help of Machine Learning algorit
 <a href="https://www.linkedin.com/in/thinam-tamang/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/linkedin.png" alt="ThinamXx | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/thinamcodes__/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/instagram.png" alt="ThinamXx | Instagram" width="21px"/></a>
 <a href="https://thinamxx.github.io/thinam.ai/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/medium.png" alt="ThinamXx | Medium" width="21px"/></a>
-
+</br>
 <!-- ### Find me around:
 - [LinkedIn](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :earth_asia:
 - [Mail](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :email: -->
-
-
 
 ## **Language and Tools**
 
