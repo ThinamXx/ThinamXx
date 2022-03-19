@@ -8,7 +8,7 @@
   I'm Thinam Tamang, a Deep Learning and Machine Learning Practitioner and Learner 🧑‍💻
 </h2>
 
-Solving a problem and gaining insights  with the help of Machine Learning algorithms has always seem to be a superpower for me. I am here to solve things, Learning a lot in process.
+Solving a problem and gaining insights with the help of Machine Learning algorithms has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
 
 <!-- I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process. -->
 
