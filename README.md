@@ -4,8 +4,10 @@ Hi there, I'm <a href="https://www.linkedin.com/in/thinam-tamang/" target="_blan
 </h3>
 
 <h2 align="center">
-I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process.
+I'm Thinam Tamang, a Deep Learning and Machine Learning Practitioner and Learner 🧑‍💻!
 </h2>
+
+Solving a problem and gaining insights  with the help of Machine Learning algorithms has always seem to be a superpower for me. I am here to solve things, Learning a lot in process.
 
 <!-- I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process. -->
 
