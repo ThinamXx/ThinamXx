@@ -25,10 +25,19 @@ Solving a problem and gaining insights with the help of Machine Learning algorit
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/thinam-tamang-3b12831a2/)
 
+### 🤝 Connect with me:
 
-### Find me around:
+<a href="https://www.linkedin.com/in/thinam-tamang/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/linkedin.svg" alt="Thinam Tamang | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/thinamcodes__/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/instagram.svg" alt="Thinam Tamang | Instagram" width="21px"/></a>
+<a href="https://thinamxx.github.io/thinam.ai/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/medium.svg" alt="Thinam Tamang | Medium" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+
+
+<!-- ### Find me around:
 - [LinkedIn](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :earth_asia:
-- [Mail](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :email:
+- [Mail](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :email: -->
 
 ## **Language and Tools**
 
