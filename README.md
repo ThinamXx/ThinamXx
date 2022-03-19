@@ -27,7 +27,7 @@ Solving a problem and gaining insights with the help of Machine Learning algorit
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/thinam-tamang/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/linkedin.svg" alt="Thinam Tamang | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/thinam-tamang/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/linkedin.svg" alt="Thinam | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/thinamcodes__/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/instagram.svg" alt="Thinam Tamang | Instagram" width="21px"/></a>
 <a href="https://thinamxx.github.io/thinam.ai/"><img align="left" src="https://raw.githubusercontent.com/ThinamXx/ThinamXx/main/images/medium.svg" alt="Thinam Tamang | Medium" width="21px"/></a>
 </br>
