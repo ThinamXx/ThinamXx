@@ -12,8 +12,6 @@ Solving a problem and gaining insights with the help of Machine Learning algorit
 
 <!-- I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process. -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
-
 **Publication:**  
 - [**Toward insights on antimicrobial selectivity of host defense peptides via machine learning model interpretation**](https://doi.org/10.1016/j.ygeno.2021.08.023)  
 
@@ -38,12 +36,11 @@ Solving a problem and gaining insights with the help of Machine Learning algorit
 ![Thinam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThinamXx&hide=prs,issues,contribs?username=ThinamXx&count_private=true?username=ThinamXx&show_icons=true&theme=radical)
 
 **Quick Access:**
-- Google's pretrained Word2vec Model :
+<!-- - Google's pretrained Word2vec Model :
 
 ```javascript
 !wget -c "https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz"
-```
-
+``` -->
 - Fast.ai : 
 
 ```python
