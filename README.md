@@ -14,25 +14,19 @@ Solving a problem and gaining insights with the help of Machine Learning algorit
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThinamXx" alt="ThinamXx" /> </p>
 
-**Publications:**  
+**Publication:**  
 - [**Toward insights on antimicrobial selectivity of host defense peptides via machine learning model interpretation**](https://doi.org/10.1016/j.ygeno.2021.08.023)  
 
 **Updates:**
-- 🔭 I’m currently working as a Research Assistant at [**Center of Data Mining and Biomedical Informatics**](https://mt.mahidol.ac.th/en/departments/center-of-data-mining-and-biomedical-informatics-2/)
-- 🔭 I’m also working on [Machine Learning and Deep Learning](https://github.com/ThinamXx/MachineLearning_DeepLearning.git)
-- 🔭 I’m also working on a **Research Paper of Bioinformatics and Machine Learning**
-- 🌱 I’m currently learning from [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
+- 🔭 I’m currently working as a Data Scientist at [**Genese Solution**](https://www.genesesolution.com/)
+- 🔭 I’m also working on a Research paper related to Bioinformatics and Machine Learning. 
+- 🌱 I’m currently learning from **MLOps**. 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
-- 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/thinam-tamang-3b12831a2/)
 
-### 🤝 Connect with me:
-
+### Connect with me 🤝:
 <a href="https://www.linkedin.com/in/thinam-tamang/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/linkedin.png" alt="ThinamXx | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/thinamcodes__/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/instagram.png" alt="ThinamXx | Instagram" width="21px"/></a>
 <a href="https://thinamxx.github.io/thinam.ai/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/medium.png" alt="ThinamXx | Medium" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
 
 <!-- ### Find me around:
 - [LinkedIn](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :earth_asia:
