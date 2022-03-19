@@ -30,6 +30,8 @@ Solving a problem and gaining insights with the help of Machine Learning algorit
 - [LinkedIn](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :earth_asia:
 - [Mail](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :email: -->
 
+
+
 ## **Language and Tools**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinamXx&theme=radical)
