@@ -18,7 +18,7 @@ Solving a problem and gaining insights with the help of Machine Learning algorit
 **Updates:**
 - 🔭 I’m currently working as a Data Scientist at [**Genese Solution**](https://www.genesesolution.com/)
 - 🔭 I’m also working on a Research paper related to Bioinformatics and Machine Learning. 
-- 🌱 I’m currently learning from **MLOps**. 
+- 🌱 I’m currently learning **MLOps**. 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
 ### Connect with me 🤝:
