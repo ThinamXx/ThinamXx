@@ -5,7 +5,7 @@
 </h3>
 
 <h2 align="center">
-  I'm Thinam Tamang, a Deep Learning and Machine Learning Practitioner and Learner 🧑‍💻
+  I'm Thinam Tamang, a Deep Learning and Machine Learning Practitioner and Learner 💻
 </h2>
 
 Solving a problem and gaining insights with the help of Machine Learning algorithms has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
