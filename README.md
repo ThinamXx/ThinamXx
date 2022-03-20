@@ -4,7 +4,7 @@
   Hi there, I'm <a href="https://www.linkedin.com/in/thinam-tamang/" target="_blank" rel="noreferrer">Thinam</a>👋
 </h3>
 
-<h2 align="center">
+<h3 align="center">
   I'm Thinam Tamang, a Deep Learning and Machine Learning Practitioner and Learner 💻
 </h2>
 
