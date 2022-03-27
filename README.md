@@ -1,6 +1,6 @@
 <!-- ### Hey there, I'm __Thinam__! 👋 :computer: -->
 
-<h3 align="centre">
+<h3 align="center">
   Hi there, I'm <a href="https://www.linkedin.com/in/thinam-tamang/" target="_blank" rel="noreferrer">Thinam</a>👋
 </h3>
 
