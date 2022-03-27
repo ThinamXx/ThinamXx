@@ -4,9 +4,9 @@
   Hi there, I'm <a href="https://www.linkedin.com/in/thinam-tamang/" target="_blank" rel="noreferrer">Thinam</a>👋
 </h3>
 
-<h3 align="left">
+<h3 align="center">
   I'm Thinam Tamang, a Deep Learning and Machine Learning Practitioner and Learner 💻
-</h2>
+</h3>
 
 Solving a problem and gaining insights with the help of Machine Learning algorithms has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
 
