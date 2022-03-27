@@ -1,10 +1,10 @@
 <!-- ### Hey there, I'm __Thinam__! 👋 :computer: -->
 
-<h3 align="center">
+<h3 align="left">
   Hi there, I'm <a href="https://www.linkedin.com/in/thinam-tamang/" target="_blank" rel="noreferrer">Thinam</a>👋
 </h3>
 
-<h3 align="center">
+<h3 align="left">
   I'm Thinam Tamang, a Deep Learning and Machine Learning Practitioner and Learner 💻
 </h2>
 
