@@ -1,12 +1,4 @@
-### Hey there, I'm __Thinam Tamang__! 👋 :computer:
-
-<!-- <h3 align="center">
- Hi there, I'm <a href="https://www.linkedin.com/in/thinam-tamang/" target="_blank" rel="noreferrer">Thinam</a>👋
-</h3> -->
-
-<!-- <h3 align="center">
-  I'm Thinam Tamang, a Deep Learning and Machine Learning Practitioner and Learner 💻
-</h3> -->
+### Hey👋, I'm __Thinam Tamang__! :computer:
 
 I am a deep learning and machine learning practitioner and learner. Solving a problem and gaining insights with the help of machine learning algorithms has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
 
