@@ -1,4 +1,4 @@
-### Hey👋, I'm __Thinam Tamang__ ! :computer:
+### Hey 👋, I'm __Thinam Tamang__ !:computer:
 
 I am a deep learning and machine learning practitioner and learner. Solving a problem and gaining insights with the help of machine learning algorithms has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
 
