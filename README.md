@@ -10,7 +10,7 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 **Updates:**
 - 🔭 I’m currently working as an NLP Developer at [**RPA Labs**](https://rpalabs.com/)
 - 🔭 I’m also working on a Research paper related to Bioinformatics and Machine Learning. 
-- 🌱 I’m currently learning **MLOps**. 
+- 🌱 I’m currently learning **NLP**. 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
 ### Connect with me 🤝:
