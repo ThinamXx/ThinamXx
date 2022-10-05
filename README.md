@@ -8,7 +8,7 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 - [**Toward insights on antimicrobial selectivity of host defense peptides via machine learning model interpretation**](https://doi.org/10.1016/j.ygeno.2021.08.023)  
 
 **Updates:**
-- 🔭 I’m currently working as an NLP Developer at [**RPA Labs**](https://rpalabs.com/)
+- 🔭 I’m currently working as an NLP Developer at [**Rippey AI**](https://rippey.ai/)
 - 🔭 I’m also working on a Research paper related to Bioinformatics and Machine Learning. 
 - 🌱 I’m currently learning **NLP**. 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
