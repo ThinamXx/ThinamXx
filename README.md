@@ -5,6 +5,7 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 <!-- I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process. -->
 
 **Publication:**  
+- [**Classification of White Blood Cells: A Comprehensive Study Using Transfer Learning Based on Convolutional Neural Networks**](https://www.mdpi.com/2075-4418/12/12/2903)
 - [**Toward insights on antimicrobial selectivity of host defense peptides via machine learning model interpretation**](https://doi.org/10.1016/j.ygeno.2021.08.023)  
 
 **Updates:**
