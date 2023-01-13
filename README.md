@@ -22,24 +22,12 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 - [LinkedIn](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :earth_asia:
 - [Mail](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :email: -->
 
-## **Language and Tools**
+<!-- ## **Language and Tools**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinamXx&theme=radical)
 ![Thinam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThinamXx&hide=prs,issues,contribs?username=ThinamXx&count_private=true?username=ThinamXx&show_icons=true&theme=radical)
-
-**Quick Access:**
-<!-- - Google's pretrained Word2vec Model :
-
-```javascript
-!wget -c "https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz"
-``` -->
-- Fast.ai : 
-
-```python
-!pip install -Uqq fastbook
-import fastbook
-fastbook.setup_book()
-```
+ -->
+<!-- **Quick Access:** -->
 
 <!--
 **ThinamXx/ThinamXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
