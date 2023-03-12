@@ -10,7 +10,7 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 
 **Updates:**
 - 🔭 I’m currently working as a Machine Learning Engineer at [**Speechify**](https://speechify.com/)
-- 🌱 I’m currently learning **NLP**. 
+- 🌱 I’m currently learning **TTS**. 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
 ### Connect with me 🤝:
