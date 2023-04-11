@@ -9,7 +9,7 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 - [**Toward insights on antimicrobial selectivity of host defense peptides via machine learning model interpretation**](https://doi.org/10.1016/j.ygeno.2021.08.023)  
 
 **Updates:**
-- 🔭 I’m currently working as a Machine Learning Engineer at [**Speechify**](https://speechify.com/)
+- 🔭 I’m currently working as a Machine Learning Scientist at [**Speechify**](https://speechify.com/)
 - 🌱 I’m currently learning **TTS**. 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
