@@ -13,14 +13,13 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 - 🌱 I’m currently learning **TTS**. 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
+<a href="https://www.buymeacoffee.com/thinam"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=thinam&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 ### Connect with me 🤝:
 <a href="https://www.linkedin.com/in/thinam-tamang/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/linkedin.png" alt="ThinamXx | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/thinamcodes__/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/instagram.png" alt="ThinamXx | Instagram" width="21px"/></a>
 <a href="https://thinamxx.github.io/thinam.github.io/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/medium.png" alt="ThinamXx | Medium" width="21px"/></a>
 </br>
-
-### Support me:
-☕[Buy Me a Coffee](https://bmc.link/thinam) 
 
 <!-- ### Find me around:
 - [LinkedIn](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :earth_asia:
