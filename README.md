@@ -18,8 +18,6 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 <a href="https://thinamxx.github.io/thinam.github.io/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/medium.png" alt="ThinamXx | Medium" width="21px"/></a>
 </br>
 
-<a href="https://www.buymeacoffee.com/thinam"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=thinam&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
 <!-- ### Find me around:
 - [LinkedIn](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :earth_asia:
 - [Mail](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :email: -->
